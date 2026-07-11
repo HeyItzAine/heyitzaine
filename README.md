@@ -155,8 +155,8 @@ Online I sometimes go by the alias Aine, programming and reverse engineering as 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeyItzAine&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=b3a6ff&text_color=8b949e&rank_icon=github" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyItzAine&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b7cf6&text_color=8b949e&langs_count=8" height="165" alt="top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyItzAine&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=b3a6ff&text_color=8b949e&rank_icon=github" height="165" alt="stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyItzAine&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b7cf6&text_color=8b949e&langs_count=8" height="165" alt="top languages"/>
 
 <br/><br/>
 
