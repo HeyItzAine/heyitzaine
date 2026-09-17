@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">HeyItzAine</title>
+  <desc id="desc">Programming and reverse engineering. Violet lettering on a charcoal background.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#111019"/><stop offset="1" stop-color="#1e1735"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c4b5fd" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M64 64H112" stroke="url(#accent)" stroke-width="4"/>
+  <text x="64" y="107" fill="#a99cc8" font-family="Consolas, monospace" font-size="15" letter-spacing="4">CODE / TOOLS / EXPERIMENTS</text>
+  <text x="59" y="195" fill="#f5f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="80" font-weight="700" letter-spacing="-3">HeyItz<tspan fill="url(#accent)">Aine</tspan><tspan fill="#a78bfa">.</tspan></text>
+  <text x="64" y="247" fill="#b8afcd" font-family="Segoe UI, Arial, sans-serif" font-size="22">Programming &amp; reverse engineering</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".45">
+    <rect x="900" y="69" width="160" height="160" rx="22" transform="rotate(15 980 149)"/>
+    <rect x="930" y="99" width="160" height="160" rx="22" transform="rotate(15 1010 179)"/>
+    <path d="m961 140-24 24 24 24m66-48 24 24-24 24m-28-62-13 76" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
