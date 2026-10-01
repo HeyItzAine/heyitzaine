@@ -11,8 +11,6 @@
 
 ## About
 
-I go by Aine. I program and reverse engineer as a hobby.
-
 My projects include Android utilities, desktop tools, and Minecraft datapacks. Sometimes it's a small fix for something that annoys me; sometimes it's a reason to figure out how something works.
 
 ## Projects
