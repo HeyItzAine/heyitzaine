@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="HeyItzAine. Programming and reverse engineering." />
+  <img src="./assets/header.svg" width="100%" alt="HeyItzAine. Programming, reverse engineering, IoT, AI." />
 </p>
 
 <p align="center">
